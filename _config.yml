@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "智者不入爱河"
   location         : "Beijing, China" # This is the location that will be used in the sidebar and other places
-  employer         : "Red Brick University"
+  employer         : "Beijing Institute of Technology" # This is the employer that will be used in the sidebar and other places
   uri              : # URL
   email            : "trendy_wang@outlook.com" 
 
