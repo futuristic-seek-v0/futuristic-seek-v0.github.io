@@ -44,7 +44,7 @@ $$
 作者在EMNIST、MNIST等数据集上进行了实验，用LeNet-5作为模型，得到数据集之间的距离如下图：
 ![mnist](images/2025-07-15-Geometric%20Dataset%20Distances%20via%20Optimal%20Transport/mnist.png)
 随后是一些鲁棒性等指标的实验：
-![robust](images/2025-07-15-Geometric%20Dataset%20Distances%20via%20Optimal%20Transport/mnist-robust.png)
+![robust](futuristic-seek-v0.github.io/_posts/images/2025-07-15-Geometric%20Dataset%20Distances%20via%20Optimal%20Transport/mnist-robust.png)
 ![robust](images/2025-07-15-Geometric%20Dataset%20Distances%20via%20Optimal%20Transport/robust2.png)
 ## Conclusion（结论）
 该方法相较于其它方法确实有所提升，因为笔者目前没有深挖这个领域，就不多评论了。
