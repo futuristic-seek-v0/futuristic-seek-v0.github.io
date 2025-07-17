@@ -1,4 +1,4 @@
-# (ICCV 2021) [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
+# (TMLR 2024) [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
 ![结构图](images/2025-07-17-DINOv2%20Learning%20Robust%20Visual%20Features%20without%20Supervision/main.png)
 # Preface （前言）
 DINOv2 是 Meta AI 在自监督学习领域继 DINO 之后推出的又一力作。它在 DINO 的基础上进行了多项改进，在图像和视频的自监督学习方面取得了显著的进展。本笔记将重点聚焦 DINOv2 与其前身 DINO 的主要不同之处。
